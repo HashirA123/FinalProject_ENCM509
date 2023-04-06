@@ -18,7 +18,7 @@
 >> conda install ipykernel
 >> conda install nb_conda_kernels
 
-## Once you have these installed these, run the folling command:
+## Once you have these installed these, run the following command:
 
 >> jupyter notebook
 
